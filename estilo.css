@@ -1,0 +1,32 @@
+#header{
+    background-color: blue;
+    color: rgb(10, 1, 30);
+    text-align: center;
+    padding: 45px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+}
+
+#banner{
+
+background-color: blueviolet;
+color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 45px;
+    font-family: sans-serif;
+     letter-spacing: 3px;
+
+
+}
+.post{
+    margin: 50px auto;
+    padding:20px;
+    transition: transform 0.2ms ease;
+    text-align: center;
+
+}
+
+.post:hover {
+    transform: scale(1.0999999);
+    
+}
